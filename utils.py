@@ -1,0 +1,7 @@
+def decide_exercise():
+    a = 5
+    b = 7
+    c =a + b
+    return c
+
+print(decide_exercise())
